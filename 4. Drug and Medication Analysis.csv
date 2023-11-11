@@ -1,0 +1,101 @@
+Patient_ID,Medication, Dosage, Adherence, Treatment_Outcome, Side_Effects, Age, Gender, Drug_Interaction
+1,Aspirin,100mg,High,Improved,Mild Headache,45,Male,No
+2,Amoxicillin,500mg,Medium,Worsened,Upset Stomach,30,Female,Yes
+3,Atorvastatin,20mg,Low,Improved,None,65,Male,No
+4,Losartan,50mg,High,Improved,None,50,Female,Yes
+5,Levothyroxine,75mcg,Medium,Stable,None,60,Male,No
+6,Metformin,1000mg,High,Improved,None,55,Female,No
+7,Simvastatin,40mg,Low,Worsened,Muscle Pain,70,Male,Yes
+8,Lisinopril,10mg,High,Stable,None,40,Female,No
+9,Warfarin,5mg,Medium,Improved,Bleeding,75,Male,Yes
+10,Insulin,20 units,High,Improved,None,50,Female,No
+11,Omeprazole,20mg,Low,Stable,None,35,Male,No
+12,Hydrochlorothiazide,25mg,Medium,Worsened,Dizziness,42,Female,Yes
+13,Escitalopram,10mg,High,Improved,None,28,Male,No
+14,Ranitidine,150mg,Low,Stable,None,48,Female,No
+15,Clopidogrel,75mg,Medium,Worsened,Bruising,63,Male,Yes
+16,Albuterol,90mcg,High,Improved,None,33,Female,No
+17,Duloxetine,30mg,Low,Stable,Insomnia,55,Male,No
+18,Tramadol,50mg,Medium,Worsened,Nausea,45,Female,Yes
+19,Furosemide,40mg,High,Improved,None,70,Male,No
+20,Fluticasone,50mcg,Low,Stable,None,38,Female,No
+21,Methotrexate,15mg,Medium,Worsened,Fatigue,60,Male,Yes
+22,Citalopram,20mg,High,Improved,None,32,Female,No
+23,Gabapentin,300mg,Low,Stable,Drowsiness,50,Male,No
+24,Naproxen,500mg,High,Worsened,Stomach Pain,42,Female,Yes
+25,Hydralazine,25mg,Medium,Improved,None,55,Male,No
+26,Digoxin,0.25mg,Low,Stable,Irregular Heartbeat,68,Female,Yes
+27,Sertraline,50mg,High,Worsened,Weight Gain,40,Male,Yes
+28,Clonidine,0.1mg,Medium,Improved,Low Blood Pressure,58,Female,Yes
+29,Amitriptyline,25mg,Low,Stable,Dry Mouth,48,Male,No
+30,Levetiracetam,500mg,High,Worsened,Dizziness,35,Female,Yes
+31,Carvedilol,12.5mg,Medium,Improved,None,60,Male,No
+32,Fluoxetine,20mg,Low,Stable,None,30,Female,No
+33,Amlodipine,5mg,High,Worsened,Swelling,50,Male,Yes
+34,Prednisone,10mg,Medium,Improved,None,45,Female,No
+35,Amiodarone,200mg,Low,Stable,Thyroid Issues,72,Male,Yes
+36,Quetiapine,100mg,High,Worsened,Sleepiness,40,Female,Yes
+37,Mirtazapine,15mg,Medium,Improved,Increased Appetite,55,Male,No
+38,Propranolol,40mg,Low,Stable,None,35,Female,No
+39,Atenolol,25mg,High,Worsened,Low Heart Rate,60,Male,Yes
+40,Acetaminophen,500mg,Medium,Improved,None,28,Female,No
+41,Pravastatin,20mg,Low,Stable,None,50,Male,No
+42,Lorazepam,1mg,High,Worsened,Drowsiness,45,Female,Yes
+43,Rivaroxaban,20mg,Medium,Improved,None,65,Male,No
+44,Enalapril,10mg,Low,Stable,None,55,Female,No
+45,Metoprolol,50mg,High,Worsened,Fatigue,42,Male,Yes
+46,Hydroxyzine,25mg,Medium,Improved,Sedation,38,Female,No
+47,Doxycycline,100mg,Low,Stable,Photosensitivity,30,Male,No
+48,Levothyroxine,100mcg,High,Worsened,Weight Loss,50,Female,Yes
+49,Pregabalin,75mg,Medium,Improved,None,55,Male,No
+50,Bupropion,150mg,Low,Stable,Insomnia,40,Female,No
+51,Fluconazole,150mg,High,Worsened,Nausea,45,Male,Yes
+52,Sotalol,80mg,Medium,Improved,None,60,Female,No
+53,Celecoxib,200mg,Low,Stable,None,32,Male,No
+54,Metformin,500mg,High,Worsened,Stomach Upset,48,Female,Yes
+55,Duloxetine,60mg,Medium,Improved,None,55,Male,No
+56,Lisinopril,20mg,Low,Stable,None,42,Female,No
+57,Aspirin,81mg,High,Worsened,Gastric Bleeding,65,Male,Yes
+58,Alprazolam,0.5mg,Medium,Improved,None,28,Female,No
+59,Omeprazole,40mg,Low,Stable,None,50,Male,No
+60,Risperidone,2mg,High,Worsened,Weight Gain,35,Female,Yes
+61,Warfarin,2.5mg,Medium,Improved,Easy Bruising,72,Male,No
+62,Venlafaxine,75mg,Low,Stable,None,45,Female,No
+63,Tamsulosin,0.4mg,High,Worsened,Dizziness,55,Male,Yes
+64,Escitalopram,20mg,Medium,Improved,None,38,Female,No
+65,Naproxen,250mg,Low,Stable,None,50,Male,No
+66,Clopidogrel,150mg,High,Worsened,Bleeding,60,Female,Yes
+67,Sertraline,100mg,Medium,Improved,None,42,Male,No
+68,Metoprolol,25mg,Low,Stable,None,55,Female,No
+69,Lisinopril,5mg,High,Worsened,Cough,48,Male,Yes
+70,Fluticasone,100mcg,Medium,Improved,None,35,Female,No
+71,Diclofenac,50mg,Low,Stable,Stomach Pain,50,Male,No
+72,Methotrexate,10mg,High,Worsened,Fatigue,55,Female,Yes
+73,Duloxetine,40mg,Medium,Improved,None,42,Male,No
+74,Ranitidine,300mg,Low,Stable,None,28,Female,No
+75,Losartan,25mg,High,Worsened,Dizziness,50,Male,Yes
+76,Levothyroxine,50mcg,Medium,Improved,None,38,Female,No
+77,Atorvastatin,40mg,Low,Stable,None,60,Male,No
+78,Hydrochlorothiazide,12.5mg,High,Worsened,Dizziness,45,Female,Yes
+79,Amoxicillin,250mg,Medium,Improved,None,32,Male,No
+80,Citalopram,30mg,Low,Stable,None,55,Female,No
+81,Lorazepam,2mg,High,Worsened,Drowsiness,40,Male,Yes
+82,Gabapentin,600mg,Medium,Improved,None,48,Female,No
+83,Tramadol,100mg,Low,Stable,None,35,Male,No
+84,Aspirin,325mg,High,Worsened,Gastric Bleeding,65,Female,Yes
+85,Amlodipine,10mg,Medium,Improved,None,42,Male,No
+86,Propranolol,20mg,Low,Stable,None,28,Female,No
+87,Enalapril,5mg,High,Worsened,Cough,50,Male,Yes
+88,Metformin,850mg,Medium,Improved,None,55,Female,No
+89,Levetiracetam,750mg,Low,Stable,Drowsiness,38,Male,No
+90,Amitriptyline,50mg,High,Worsened,Dry Mouth,48,Female,Yes
+91,Simvastatin,20mg,Medium,Improved,None,60,Male,No
+92,Naproxen,375mg,Low,Stable,None,35,Female,No
+93,Doxycycline,50mg,High,Worsened,Nausea,42,Male,Yes
+94,Warfarin,7.5mg,Medium,Improved,Easy Bruising,55,Female,No
+95,Bupropion,300mg,Low,Stable,Insomnia,28,Male,No
+96,Rivaroxaban,15mg,High,Worsened,Bleeding,50,Female,Yes
+97,Hydralazine,50mg,Medium,Improved,None,42,Male,No
+98,Lisinopril,15mg,Low,Stable,None,55,Female,No
+99,Fluoxetine,40mg,High,Worsened,Weight Gain,35,Male,Yes
+100,Celecoxib,100mg,Medium,Improved,None,48,Female,No
